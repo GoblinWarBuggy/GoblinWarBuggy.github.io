@@ -1,0 +1,2461 @@
+﻿[
+    {
+        "card_name": "MW01 Sun Dog",
+        "number": 20,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "188"
+    },
+    {
+        "card_name": "MU01 Brumal the Ethereal",
+        "number": 61,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "264"
+    },
+    {
+        "card_name": "MB01 Murkdeep Excavator",
+        "number": 102,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "222"
+    },
+    {
+        "card_name": "MR01 Tarball",
+        "number": 144,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "240"
+    },
+    {
+        "card_name": "RG01 Mightfrother Elf",
+        "number": 186,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "214"
+    },
+    {
+        "card_name": "RW01 Nova Arbiter",
+        "number": 21,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "187"
+    },
+    {
+        "card_name": "RU01 Deepfrost Caller",
+        "number": 62,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "194"
+    },
+    {
+        "card_name": "MB02 Welden, Deep Warden",
+        "number": 103,
+        "shape": "planeswalker",
+        "set": "SOL",
+        "rotated": false,
+        "position": "224"
+    },
+    {
+        "card_name": "MR08 Tourna's Fury",
+        "number": 145,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "256"
+    },
+    {
+        "card_name": "RG02 Daytime Hibernation",
+        "number": 187,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "215"
+    },
+    {
+        "card_name": "RW02 Greenhouse Enthusiast",
+        "number": 22,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "124"
+    },
+    {
+        "card_name": "RU02 Benthic Dreadnought",
+        "number": 63,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "195"
+    },
+    {
+        "card_name": "RB01 Hateful Deepspawn",
+        "number": 104,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "149"
+    },
+    {
+        "card_name": "RR01 Frenzy Blaster",
+        "number": 146,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "207"
+    },
+    {
+        "card_name": "RG03 Snowshaker Yeti",
+        "number": 188,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "216"
+    },
+    {
+        "card_name": "RW03 Turinel, Nova's Chosen",
+        "number": 23,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "189"
+    },
+    {
+        "card_name": "RU03 Parallax Ice",
+        "number": 64,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "RB02 Egal Tiram, Primordial",
+        "number": 105,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "263"
+    },
+    {
+        "card_name": "RR02 Tourna, Burning Heretic",
+        "number": 147,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "208"
+    },
+    {
+        "card_name": "RG04 Vorga of the Crossroads",
+        "number": 189,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "217"
+    },
+    {
+        "card_name": "RW04 Impermafrost",
+        "number": 24,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "190"
+    },
+    {
+        "card_name": "RU04 Ominous Iceberg",
+        "number": 65,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "197"
+    },
+    {
+        "card_name": "RB03 Ritual of the Deep",
+        "number": 106,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "202"
+    },
+    {
+        "card_name": "RR03 Addled Miner",
+        "number": 148,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "209"
+    },
+    {
+        "card_name": "RG05 Leviathan Investigation",
+        "number": 190,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "218"
+    },
+    {
+        "card_name": "RW05 Bulwark of the Apocalypse",
+        "number": 25,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "191"
+    },
+    {
+        "card_name": "RU05 Dredged Monolith",
+        "number": 66,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "269"
+    },
+    {
+        "card_name": "RB04 Bloodsucking Gnats",
+        "number": 107,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "203"
+    },
+    {
+        "card_name": "RR04 Flaming-Chain Abbot",
+        "number": 149,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "210"
+    },
+    {
+        "card_name": "RG06 Blooming of the Night",
+        "number": 191,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "219"
+    },
+    {
+        "card_name": "RW06 Nova's Disdain",
+        "number": 26,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "232"
+    },
+    {
+        "card_name": "RU06 Muffle",
+        "number": 67,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "199"
+    },
+    {
+        "card_name": "RB05",
+        "number": 108,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "277"
+    },
+    {
+        "card_name": "RR05 Soulfire Engine",
+        "number": 150,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "211"
+    },
+    {
+        "card_name": "RG07 Frost Shivs",
+        "number": 192,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "220"
+    },
+    {
+        "card_name": "RW07 Brightfrost Blade",
+        "number": 27,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "193"
+    },
+    {
+        "card_name": "RU07 Krakilakin, the Scouter",
+        "number": 68,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "200"
+    },
+    {
+        "card_name": "RB06 Heatbringer Cultist",
+        "number": 109,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "205"
+    },
+    {
+        "card_name": "RR06 Thermal Packet",
+        "number": 151,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "212"
+    },
+    {
+        "card_name": "RG08 Nomad of Ier",
+        "number": 193,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "257"
+    },
+    {
+        "card_name": "RW08 Watcher for the Frost",
+        "number": 28,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "125"
+    },
+    {
+        "card_name": "RU08 Thought Spiral",
+        "number": 69,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "RB07 Banishment of Hope",
+        "number": 110,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "206"
+    },
+    {
+        "card_name": "RR07 Flaming Oiltyrant",
+        "number": 152,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "213"
+    },
+    {
+        "card_name": "UG01 Icewing Crane",
+        "number": 194,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "165"
+    },
+    {
+        "card_name": "UW01 Many-Shelled Beast",
+        "number": 29,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "121"
+    },
+    {
+        "card_name": "ZZ RU03 Dredge Through Space",
+        "number": 275,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "196"
+    },
+    {
+        "card_name": "RB08 Grumsaw's Depths",
+        "number": 111,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "255"
+    },
+    {
+        "card_name": "RR08 Tomb Conflagration",
+        "number": 153,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "260"
+    },
+    {
+        "card_name": "UG02 Frostmelt Rider",
+        "number": 195,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "166"
+    },
+    {
+        "card_name": "UW02 Coldstepper",
+        "number": 30,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "122"
+    },
+    {
+        "card_name": "ZZ RU05 Stungazer Leviathan",
+        "number": 276,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "198"
+    },
+    {
+        "card_name": "ZZ RB02 The Estranged Tiram Egal",
+        "number": 273,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "201"
+    },
+    {
+        "card_name": "UR01 Goblin Conflagrator",
+        "number": 154,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "154"
+    },
+    {
+        "card_name": "UG03 Boroughgoyf",
+        "number": 196,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "167"
+    },
+    {
+        "card_name": "UW03 Ethereal Judge",
+        "number": 31,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "123"
+    },
+    {
+        "card_name": "UU01 Spinners of Myth",
+        "number": 70,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "132"
+    },
+    {
+        "card_name": "ZZ RB05 Wave of Oil",
+        "number": 274,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "204"
+    },
+    {
+        "card_name": "UR02 Thick-Skinned Goblin",
+        "number": 155,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "155"
+    },
+    {
+        "card_name": "UG04 Watcher Spider",
+        "number": 197,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "168"
+    },
+    {
+        "card_name": "UW04 Hulking Mastiff",
+        "number": 32,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "276"
+    },
+    {
+        "card_name": "UU02 Frozen Bleb",
+        "number": 71,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "133"
+    },
+    {
+        "card_name": "UB01 Oilsplasher Viper",
+        "number": 112,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "143"
+    },
+    {
+        "card_name": "UR03 Snow Devil",
+        "number": 156,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "156"
+    },
+    {
+        "card_name": "UG05 Simian Soul Mentor",
+        "number": 198,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "169"
+    },
+    {
+        "card_name": "UW05 Angel of Turinel",
+        "number": 33,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "254"
+    },
+    {
+        "card_name": "UU03 Frazzled Librarian",
+        "number": 72,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "134"
+    },
+    {
+        "card_name": "UB02 Caller of the Deep",
+        "number": 113,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "144"
+    },
+    {
+        "card_name": "UR04 Ice Recycler",
+        "number": 157,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "157"
+    },
+    {
+        "card_name": "UG06 Echoing Dreadmaw",
+        "number": 199,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "170"
+    },
+    {
+        "card_name": "UW06 Karmic Guide",
+        "number": 34,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "126"
+    },
+    {
+        "card_name": "UU04 Fleet Devourer",
+        "number": 73,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "135"
+    },
+    {
+        "card_name": "UB03 Vigil Holder",
+        "number": 114,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "145"
+    },
+    {
+        "card_name": "UR05 Earthshoveler",
+        "number": 158,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "158"
+    },
+    {
+        "card_name": "UG07 Ouphe Prismite",
+        "number": 200,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "171"
+    },
+    {
+        "card_name": "UW07 Frozen Snowballer",
+        "number": 35,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "UU05 Ice Dragon",
+        "number": 74,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "136"
+    },
+    {
+        "card_name": "UB04 Frostbiter Opportunist",
+        "number": 115,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "146"
+    },
+    {
+        "card_name": "UR06 Oilsick Huddlewurm",
+        "number": 159,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "159"
+    },
+    {
+        "card_name": "UG08 Bounding Chanter",
+        "number": 201,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "172"
+    },
+    {
+        "card_name": "UW08 Wizened Trent",
+        "number": 36,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "128"
+    },
+    {
+        "card_name": "UU06 Rift-Tearer",
+        "number": 75,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "137"
+    },
+    {
+        "card_name": "UB05 Oil Dragon",
+        "number": 116,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "147"
+    },
+    {
+        "card_name": "UR07 Mountaintop Watcher",
+        "number": 160,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "160"
+    },
+    {
+        "card_name": "UG09 Frost Flowers",
+        "number": 202,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "173"
+    },
+    {
+        "card_name": "UW09 Shatter Across Time",
+        "number": 37,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "129"
+    },
+    {
+        "card_name": "UU07 Delver's Bane",
+        "number": 76,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "138"
+    },
+    {
+        "card_name": "UB06 Scavenging Leeches",
+        "number": 117,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "186"
+    },
+    {
+        "card_name": "UR08 Murkfire Jet",
+        "number": 161,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "UG10 Snowsearching",
+        "number": 203,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "174"
+    },
+    {
+        "card_name": "UW10 Icebox Rations",
+        "number": 38,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "130"
+    },
+    {
+        "card_name": "UU08 Search the Depths",
+        "number": 77,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "139"
+    },
+    {
+        "card_name": "UB07 Geoleum Rager",
+        "number": 118,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "148"
+    },
+    {
+        "card_name": "UR09 Flame Bullets",
+        "number": 162,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "162"
+    },
+    {
+        "card_name": "UG11 Regrow the Menagerie",
+        "number": 204,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "185"
+    },
+    {
+        "card_name": "UW11 Scatter to the Wind",
+        "number": 39,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "176"
+    },
+    {
+        "card_name": "UU09 Benthic Mandate",
+        "number": 78,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "140"
+    },
+    {
+        "card_name": "UB08 Suspended Cryorot",
+        "number": 119,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "150"
+    },
+    {
+        "card_name": "UR10",
+        "number": 163,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "279"
+    },
+    {
+        "card_name": "UG12 Blossoming Blast",
+        "number": 205,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "175"
+    },
+    {
+        "card_name": "UW12 Squadron's Screech",
+        "number": 40,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "177"
+    },
+    {
+        "card_name": "UU10 Brumation",
+        "number": 79,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "141"
+    },
+    {
+        "card_name": "UB09 Leviathan's Resurface",
+        "number": 120,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "151"
+    },
+    {
+        "card_name": "UR11 Pull of the Iconoclast",
+        "number": 164,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "182"
+    },
+    {
+        "card_name": "UG13 Infinite Potential",
+        "number": 206,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "184"
+    },
+    {
+        "card_name": "UW13 Overcoat",
+        "number": 41,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "UU11 Turn of the Tides",
+        "number": 80,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "142"
+    },
+    {
+        "card_name": "UB10 Trudge through Muck",
+        "number": 121,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "152"
+    },
+    {
+        "card_name": "UR12 Burning-Oil Fists",
+        "number": 165,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "183"
+    },
+    {
+        "card_name": "CG01 Frost Sloth",
+        "number": 167,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "ZZ UW07 Cold Sun Acolyte",
+        "number": 279,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "127"
+    },
+    {
+        "card_name": "UU12 Snow Front",
+        "number": 81,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "178"
+    },
+    {
+        "card_name": "UB11 Bore Thoughts",
+        "number": 122,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "181"
+    },
+    {
+        "card_name": "UR13 Pyre Charm",
+        "number": 166,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "164"
+    },
+    {
+        "card_name": "CG02",
+        "number": 168,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "278"
+    },
+    {
+        "card_name": "ZZ UW13 Overbearing",
+        "number": 280,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "273"
+    },
+    {
+        "card_name": "UU13 Fathomless Deep",
+        "number": 82,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "179"
+    },
+    {
+        "card_name": "UB12 Infested Cheese",
+        "number": 123,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "153"
+    },
+    {
+        "card_name": "ZZ UR10 Trigger Happy",
+        "number": 278,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "163"
+    },
+    {
+        "card_name": "CG03 Grizzled Survivalist",
+        "number": 169,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "CW01 Frost Enchanter",
+        "number": 1,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "CU01 Deepwater Minnow",
+        "number": 42,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "UB13 Heartless Act",
+        "number": 124,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "180"
+    },
+    {
+        "card_name": "CR01 Lantern Assistant",
+        "number": 125,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "CG04 Beastbreaker",
+        "number": 170,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "CW02 Dawnbringer Cleric",
+        "number": 2,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "CU02 Remora",
+        "number": 43,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "CB01 Oil Collector",
+        "number": 83,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "CR02 Frosteater",
+        "number": 126,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "CG05 Chilly Ripper",
+        "number": 171,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "CW03 Turinel's Enchanter",
+        "number": 3,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "CU03 Icebound Horror",
+        "number": 44,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "CB02 Banisher of the Deep",
+        "number": 84,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "CR03 Murkfire Heretic",
+        "number": 127,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "CG06 Humongous Spider",
+        "number": 172,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "CW04 Icebreaker Lynx",
+        "number": 4,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "CU04 Frostlens Geist",
+        "number": 45,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "CB03 Heatdrinker Anaconda",
+        "number": 85,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "CR04 Mogg War Marshal",
+        "number": 128,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "CG07 Cultivator Caravan",
+        "number": 173,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "CW05 Blizzard Fox",
+        "number": 5,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "CU05 Giant Strix",
+        "number": 46,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "CB04 Cresting Eyefish",
+        "number": 86,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "CR05 Blazing Oilmutt",
+        "number": 129,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "CG08 Herdleader Ox",
+        "number": 174,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "CW06 Dead-Honor Griffin",
+        "number": 6,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "CU06 Cuttlestunner",
+        "number": 47,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "CB05 Frostbitten Bones",
+        "number": 87,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "CR06 Bowlfire Keeper",
+        "number": 130,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "CG09 Heatbringer Mole",
+        "number": 175,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "CW07 Flightless Fledgeling",
+        "number": 7,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "CU07 Icebind Priestess",
+        "number": 48,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "CB06 Echolocating Oildiver",
+        "number": 88,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "CR07 Oillauncher Giant",
+        "number": 131,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "CG10 Majestic Caribou",
+        "number": 176,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "CW08 Priest of the Dawn",
+        "number": 8,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "CU08 Snow Elemental",
+        "number": 49,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "CB07 Pelagic Swallower",
+        "number": 89,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "CR08 Terrifying Ogre",
+        "number": 132,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "CG11 Rooting Vorrac",
+        "number": 177,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "CW09 Inspiring Equine",
+        "number": 9,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "CU09 Chilled Oilspouter",
+        "number": 50,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "CB08 Autocratic Heatsucker",
+        "number": 90,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "CR09 Geothermal Huddleworm",
+        "number": 133,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "CG12 Tundral Showdown",
+        "number": 178,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "CW10 Nova Recruiter",
+        "number": 10,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "CU10 Roving Iceblock",
+        "number": 51,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "CB09 Carrion Whelp",
+        "number": 91,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "CR10 Overgrown Tunneler",
+        "number": 134,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "CG13 Lunar Might",
+        "number": 179,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "CW11 Oil Smiter",
+        "number": 11,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "CU11 Chill of the Nova",
+        "number": 52,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "CB10 Gurmag Angler",
+        "number": 92,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "CR11 Live Coals",
+        "number": 135,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "161"
+    },
+    {
+        "card_name": "CG14 Frozen Venom",
+        "number": 180,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "CW12 Frostgoat Shepherd",
+        "number": 12,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "265"
+    },
+    {
+        "card_name": "CU12 Fogbound Dismissal",
+        "number": 53,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "CB11 Wrap in Oil",
+        "number": 93,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "CR12 Pyre Strike",
+        "number": 136,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "CG15 Natural Will",
+        "number": 181,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "CW13 Nova's Retribution",
+        "number": 13,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "CU13 Hypothermia",
+        "number": 54,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "CB12 Hate Siphon",
+        "number": 94,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "CR13 Geoleum Sickness",
+        "number": 137,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "CG16 Frostbreaker's Shovel",
+        "number": 182,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "91"
+    },
+    {
+        "card_name": "CW14 Meditative Journey",
+        "number": 14,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "CU14 Read the Oil",
+        "number": 55,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "CB13 Isolation",
+        "number": 95,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "CR14 Tourna's Influence",
+        "number": 138,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "CG17 Snow Out",
+        "number": 183,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "92"
+    },
+    {
+        "card_name": "CW15 Crystalline Ire",
+        "number": 15,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "266"
+    },
+    {
+        "card_name": "CU15 Twilight's Hoar",
+        "number": 56,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "CB14 Drown in Oil",
+        "number": 96,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": "CR15 Frazzled Insight",
+        "number": 139,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "CG18 Broken Rime",
+        "number": 184,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "93"
+    },
+    {
+        "card_name": "CW16 Shimmering Veil",
+        "number": 16,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "CU16 Chillbind",
+        "number": 57,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "CB15 Pooling Basin",
+        "number": 97,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "CR16 Hyperthermia",
+        "number": 140,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "CG19 Return to Nature",
+        "number": 185,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "94"
+    },
+    {
+        "card_name": "CW17 Frozen Pike",
+        "number": 17,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "275"
+    },
+    {
+        "card_name": "CU17 Branchstep",
+        "number": 58,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "CB16 Corpse Trawling",
+        "number": 98,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "CR17 Entombed's Rage",
+        "number": 141,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "ZZ CG02 Snowtunnel Minks",
+        "number": 263,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "CW18 Powdersnow Charge",
+        "number": 18,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "CU18 Thoughtbind",
+        "number": 59,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "CB17 Sight Unseen",
+        "number": 99,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "CR18 Oil Slick",
+        "number": 142,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "ZZ CG11 Snowflats Dreadbeast",
+        "number": 264,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "CW19 Mistral Reckoning",
+        "number": 19,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "CU19 Spinning Frost",
+        "number": 60,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "262"
+    },
+    {
+        "card_name": "CB18 Moon's Howling",
+        "number": 100,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "CR19 Blazing Club",
+        "number": 143,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "ZZ CW12 Tundra Wanderer",
+        "number": 267,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "ZZ CU18 Hassle",
+        "number": 265,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "CB19 Oilsea Dredging",
+        "number": 101,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "ZZ CW15 Destroy Evil",
+        "number": 268,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "ZZ CU19 Embrittle",
+        "number": 266,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "ZZ CW17 Frozen Lance",
+        "number": 269,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "RZ03 Rimebind",
+        "number": 212,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "241"
+    },
+    {
+        "card_name": "RZ01 Rime of the Ancient Mariner",
+        "number": 210,
+        "shape": "saga",
+        "set": "SOL",
+        "rotated": false,
+        "position": "231"
+    },
+    {
+        "card_name": "ZZ MZ03 Hell on Earth",
+        "number": 271,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "258"
+    },
+    {
+        "card_name": "RZ05 Enraged Magmaderm",
+        "number": 214,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "243"
+    },
+    {
+        "card_name": "RZ06 Snowdrift Winder",
+        "number": 215,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "UZ01 Coldlight Refractor",
+        "number": 220,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "98"
+    },
+    {
+        "card_name": "UZ02 Murkdeep Trencher",
+        "number": 221,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "103"
+    },
+    {
+        "card_name": "RZ04 Burning at Both Ends",
+        "number": 213,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "242"
+    },
+    {
+        "card_name": "UZ04 Inner-Fire Bounder",
+        "number": 223,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "102"
+    },
+    {
+        "card_name": "UZ05 Frostspike Smith",
+        "number": 224,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "101"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ03 Frostfire Wheeler",
+        "number": 222,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "99"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RZ07 Tangible Virtue",
+        "number": 216,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "131"
+    },
+    {
+        "card_name": "RZ02 Frost Sculptor",
+        "number": 211,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "192"
+    },
+    {
+        "card_name": "RZ08 Frostviper of Ier",
+        "number": 217,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "RZ10 Burning Sun Heretics",
+        "number": 219,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "RZ09 Hibernating Mudshell",
+        "number": 218,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "ZZ RZ07 Lord of Tens",
+        "number": 277,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "249"
+    },
+    {
+        "card_name": "UZ09 Moonlight's Gleam",
+        "number": 228,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "106"
+    },
+    {
+        "card_name": "UZ07 Nocturnal Blossoming",
+        "number": 226,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "104"
+    },
+    {
+        "card_name": "UZ10 Snapfrost Harrier",
+        "number": 229,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "105"
+    },
+    {
+        "card_name": "UZ08 Frostpine Breaker",
+        "number": 227,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "100"
+    },
+    {
+        "card_name": "UZ06 Altar to the Nova",
+        "number": 225,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "97"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "MZ01 Kiora, Consumed by Depths",
+        "number": 207,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "223"
+    },
+    {
+        "card_name": "MZ02 Tel, Baron of the Icevein",
+        "number": 208,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "245"
+    },
+    {
+        "card_name": "MZ03 Scepter of Undeath",
+        "number": 209,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "271"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "ZZ MA01 Eternities Walker",
+        "number": 270,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "RA01 Chilly Clasp",
+        "number": 235,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "RA02 Greasewheel Machinist",
+        "number": 236,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "272"
+    },
+    {
+        "card_name": "RA03 Miracle Fertilzer",
+        "number": 237,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "234"
+    },
+    {
+        "card_name": "ZZ RA02 The Equinox Engine",
+        "number": 272,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "233"
+    },
+    {
+        "card_name": "UA01 Frozen Construct",
+        "number": 238,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "225"
+    },
+    {
+        "card_name": "UA02 Trapmaw",
+        "number": 239,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "229"
+    },
+    {
+        "card_name": "UA03 False Leviathan",
+        "number": 240,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "227"
+    },
+    {
+        "card_name": "UA04 Avalanche Boulder",
+        "number": 241,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "226"
+    },
+    {
+        "card_name": "UA05 Tome of Decay",
+        "number": 242,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "228"
+    },
+    {
+        "card_name": "UA06 Soul Basket",
+        "number": 243,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "230"
+    },
+    {
+        "card_name": "CA01 Cobbled Oilcollector",
+        "number": 230,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "110"
+    },
+    {
+        "card_name": "CA02 Skittering Surveyor",
+        "number": 231,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "CA03 Meltfrost Basin",
+        "number": 232,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "96"
+    },
+    {
+        "card_name": "CA04 Ice Pick",
+        "number": 233,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "108"
+    },
+    {
+        "card_name": "CA05 Tourna's Astrolabe",
+        "number": 234,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "107"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "CL06 Snowfield Sinkhole",
+        "number": 250,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "117"
+    },
+    {
+        "card_name": "ML01 Grumsaw, the Oilsea",
+        "number": 255,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "259"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "RL01 Moonlight Underbrush",
+        "number": 256,
+        "shape": "transform double faced",
+        "set": "SOL",
+        "rotated": false,
+        "position": "221"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL02 Frozen Steppe",
+        "number": 257,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "235"
+    },
+    {
+        "card_name": "RL03 Deep Oilbed",
+        "number": 258,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "236"
+    },
+    {
+        "card_name": "RL04 Barren Crag",
+        "number": 259,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "237"
+    },
+    {
+        "card_name": "RL05 Flowering Mount",
+        "number": 260,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "238"
+    },
+    {
+        "card_name": "RL06 Tundric Forest",
+        "number": 261,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "239"
+    },
+    {
+        "card_name": "CL01 Glacial Floodplain",
+        "number": 245,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "113"
+    },
+    {
+        "card_name": "CL02 Ice Tunnel",
+        "number": 246,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "114"
+    },
+    {
+        "card_name": "CL03 Sulfurous Mire",
+        "number": 247,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "118"
+    },
+    {
+        "card_name": "CL04 Highland Forest",
+        "number": 248,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "115"
+    },
+    {
+        "card_name": "CL05 Arctic Treeline",
+        "number": 249,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "112"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CL09 Volatile Fjord",
+        "number": 253,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "119"
+    },
+    {
+        "card_name": "CL07 Woodland Chasm",
+        "number": 251,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "120"
+    },
+    {
+        "card_name": "CL10 Alpine Meadow",
+        "number": 254,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "111"
+    },
+    {
+        "card_name": "CL08 Rimewood Falls",
+        "number": 252,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "116"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "RL07 Glade of Forgetting",
+        "number": 262,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "CA06 Morphing Snowscape",
+        "number": 244,
+        "shape": "normal",
+        "set": "SOL",
+        "rotated": false,
+        "position": "109"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
